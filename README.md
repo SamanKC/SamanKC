@@ -1,60 +1,51 @@
-###  Hi there, I'm Saman <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
-
-I'm Saman, a passionate Flutter developer from Nepal.
-
-[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/CtRp5GB)
-[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/raenbov)
-[![](https://img.shields.io/badge/-dev.to-FFF?&logo=dev.to&logoColor=000)](https://dev.to/ra1nbow1)
-[![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@ra1nbow1)
-[![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/Ra1nbow1)
-
-
-### Languages
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)]
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)]
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)]
-
-### Technologies
-
-[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-React-000?&logo=React)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://ra1nbow.xyz?ref=github)
-
-### Other
-
-[![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://ra1nbow.xyz?ref=github)
-
-<a href="https://ra1nbow.xyz?ref=github">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ra1nbow1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
-</a>
-<a href="https://ra1nbow.xyz?ref=github">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
-
-<p align="center"> 
-  Visitor count<br>
-  <a href="https://ra1nbow.xyz?ref=github">
-    <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+---
+
+### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
