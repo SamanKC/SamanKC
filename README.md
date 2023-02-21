@@ -46,4 +46,4 @@
 
 ---
 
-### :writing_hand: Blog Posts : bufferstories.com
+### :writing_hand: Blog Posts : <a href="bufferstories.com">BufferStories</a>
