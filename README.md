@@ -18,16 +18,14 @@
   </a>
 </div>
 </div>
----
 
-### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+### :man_technologist: About Me : I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
+- :telescope: I'm a keen learner and tech enthusiast, with a experience in websites and mobile app development. I look forward to seek software development and related fields such as Mobile App Development, Full stack web development where my knowledge, skills, and experience can be applied to provide extensive value to the business or project with which I am engaged.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: Exploring Technical Fields.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samankc/)
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
