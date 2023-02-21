@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://samankc.com.np">
-    <img src="https://img.shields.io/badge/-Saman%20KC-blue" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/-Saman%20KC-blue?logoHeight=40" alt="Website Badge"/>
   </a>
 </div>
 </div>
