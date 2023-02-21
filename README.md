@@ -1,7 +1,7 @@
 ### Hi there 👋
-<h3 align="center">I'm Saman KC, a keen learner and tech enthusiast, with a experience in websites and mobile app development. I look forward to seek software development and related fields such as Mobile App Development, Full stack web development where my knowledge, skills, and experience can be applied to provide extensive value to the business or project with which I am engaged.</h3>
+<h2 align="justify">I'm Saman KC, a keen learner and tech enthusiast, with a experience in websites and mobile app development. I look forward to seek software development and related fields such as Mobile App Development, Full stack web development where my knowledge, skills, and experience can be applied to provide extensive value to the business or project with which I am engaged.</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samankc" alt="samankc" /></a> </p>
+<p align="justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samankc" alt="samankc" /></a> </p>
 
 - 🔭 I’m currently working on **Computer Basic Course-Mobile Application**
 
@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samankc&show_icons=true&locale=en&layout=compact" alt="samankc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samankc&" alt="samankc" /></p>
+
