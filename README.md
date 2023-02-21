@@ -1,37 +1,61 @@
-### Hi there 👋
-<h2 align="justify">I'm Saman KC, a keen learner and tech enthusiast, with a experience in websites and mobile app development. I look forward to seek software development and related fields such as Mobile App Development, Full stack web development where my knowledge, skills, and experience can be applied to provide extensive value to the business or project with which I am engaged.</h2>
+###  Hi there, I'm ra1nbow <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+
+I'm Matvey, a professional **self-taughted** FullStack web developer from Moscow.
+
+[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/CtRp5GB)
+[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/raenbov)
+[![](https://img.shields.io/badge/-dev.to-FFF?&logo=dev.to&logoColor=000)](https://dev.to/ra1nbow1)
+[![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@ra1nbow1)
+[![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/Ra1nbow1)
 
 
-- 🔭 I’m currently working on **Computer Basic Course-Mobile Application**
+### Languages
 
-- 🌱 I’m currently learning **Flutter**
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://ra1nbow.xyz?ref=github)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ra1nbow.xyz?ref=github)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://ra1nbow.xyz?ref=github)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ra1nbow.xyz?ref=github)
+[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://ra1nbow.xyz?ref=github)
 
-- 👨‍💻 All of my projects are available at [samankc.com.np](samankc.com.np)
+### Technologies
 
-- 📝 I regularly write articles on [bufferstories.com](bufferstories.com)
+[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-React-000?&logo=React)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://ra1nbow.xyz?ref=github)
 
-- 💬 Ask me about **Flutter, Dart, Java**
+### Other
 
-- 📫 How to reach me **saman.kc1641@gmail.com**
+[![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://ra1nbow.xyz?ref=github)
 
-- 📄 Know about my experiences [samankc.com.np](samankc.com.np)
+<a href="https://ra1nbow.xyz?ref=github">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ra1nbow1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
+</a>
+<a href="https://ra1nbow.xyz?ref=github">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/samankc1641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samankc1641" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samankc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samankc/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10799133/saman-kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10799133/saman-kc" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/saman.kc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saman.kc/" height="30" width="40" /></a>
-<a href="/https://www.bufferstories.com/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.bufferstories.com/feeds/posts/default?alt=rss" height="30" width="40" /></a>
+<p align="center"> 
+  Visitor count<br>
+  <a href="https://ra1nbow.xyz?ref=github">
+    <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samankc&show_icons=true&locale=en&layout=compact" alt="samankc" /></p>
-
-
